@@ -1,3 +1,2 @@
 this is second file.
 Second line
-Third line that i want to keep.
