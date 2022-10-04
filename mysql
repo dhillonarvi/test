@@ -1,3 +1,4 @@
-we support mysql version 57,58
-install type is bare metal
+we support mysql version 57,58 and mariadb 10.3
+install type is bare metal, virtual hosts
 We support community version of mysql
+
